@@ -2,22 +2,24 @@
 
 Gruppo:
 
-Componenti (nome, cognome e username GitHub di entrambi):
+Componenti (Giulia Ioannucci (Giulia230906) Giulia Nicoletti (nicolettigiulia)):
 
-URL del repository condiviso:
-
-Chi ha usato la tastiera nello step 1 e nello step 2:
+URL del repository condiviso:https://github.com/nicolettigiulia/esercitazione-0-template.git
+Chi ha usato la tastiera nello step 1 e nello step 2:Giulia Nicoletti 
 
 Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
 
 ## Step 1 — Hello World: compilazione ed esecuzione
 
-Comando di compilazione:
+Comando di compilazione:gcc -std=c17 -Wall -Wextra -Wpedantic hello.c -o hello
+./hello
 
-Comando di esecuzione e risultato osservato:
+Comando di esecuzione e risultato osservato: gcc -std=c17 -Wall -Wextra -Wpedantic hello.c -o hello
+./hello
+stampa della frase "Hello,computational physics!"
 
-Che cosa ho capito su sorgente ed eseguibile:
+Che cosa ho capito su sorgente ed eseguibile: la sorgente e' il programma scritto in c l'eseguibile e' il programma compilato e comprensibile dal sistema
 
 Output richiesto e comportamento del programma prima della modifica:
 
@@ -25,9 +27,9 @@ Esito dopo la modifica e spiegazione della correzione:
 
 ## Step 1 — Git
 
-Quali file ho incluso nel commit e perché:
+Quali file ho incluso nel commit e perché:hello.c e osservazioni.md
 
-Come ho verificato che la versione provata sia presente su GitHub:
+Come ho verificato che la versione provata sia presente su GitHub:ho controllato su Github 
 
 Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
 
